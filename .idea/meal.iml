@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/packages/core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/packages/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Food-Ordering-App-With-Flutter-main/packages/core/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
